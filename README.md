@@ -9,20 +9,22 @@ Willkommen im offiziellen Repository zum Buch **"Das 0-Euro-Cockpit"**. In diese
 
 Großkonzerne stützen ihre Digitalisierung auf zwei entscheidende Säulen:
 
-1. **Die strategische Planung:** Mit Methoden wie Enterprise Architecture Management (EAM) strukturieren sie ihre Prozesse und IT-Landschaften verlässlich.
-2. **Die operative Echtzeitsteuerung:** Über professionelle Dashboard-Lösungen lenken sie ihr Tagesgeschäft anhand von Live-Daten punktgenau.
+* **Die strategische Planung:** Mit Methoden wie Enterprise Architecture Management (EAM) strukturieren sie ihre Prozesse und IT-Landschaften verlässlich.
+* **Die operative Steuerung:** Über professionelle Dashboards lenken sie ihr Tagesgeschäft anhand von Live-Daten punktgenau.
 
-Doch für KMU, Handwerker, Immobilienverwalter oder Berater sieht die Realität anders aus: Komplexe EAM- und Enterprise Resource Planning (ERP)-Software kostet ein Vermögen, Microsoft Excel versinkt im Formel-Chaos und teure Cloud-Abos fressen die Marge auf. Die Idee vom professionell steuerbaren Unternehmen scheitert meist an Technik, Budget oder den fehlenden IT-Kenntnissen.
+Doch für KMU, Projektleiter und Berater sieht die Realität meist anders aus: Komplexe EAM- und ERP-Software kostet ein Vermögen, Microsoft Excel versinkt im Formel-Chaos und teure Cloud-Abos fressen die Marge auf.
 
-Hier lernst du, wie du diesen Engpass umgehst. Du baust dir ein eigenes, lizenzfreies Unternehmens-Cockpit, das die strategische Planung nahtlos mit operativer Steuerung und absoluter Übersicht verschmilzt.
+Hier lernst du, wie du diesen Engpass umgehst. Du baust dir dein eigenes, lizenzfreies 0-Euro-Cockpit, das strategische Planung nahtlos mit operativer Steuerung und absoluter Übersicht verschmilzt.
 
-Das Beste daran: Es ist erstaunlich einfach. Du brauchst kein Informatik-Studium. Wer eine E-Mail schreiben und einen Anhang verschicken kann, bringt bereits alle technischen Voraussetzungen mit. Alles, was du für deine Kommandozentrale benötigst, sind dein Webbrowser, ein einfacher Texteditor und moderne Sprachmodelle (LLMs) als deine persönlichen Übersetzer.
+Das Beste daran: Es ist erstaunlich einfach. Wer eine PowerPoint-Präsentation logisch aufbauen oder eine einfache Summe in Excel bilden kann, schafft auch dieses Projekt – ganz ohne Informatik-Studium oder Programmierkenntnisse. Versprochen!
+
+Alles, was du für den Aufbau deines Cockpits benötigst, hast du im Handumdrehen startklar: Einen Webbrowser, einen Texteditor und die Kommandozeile bringt dein System bereits von Haus aus mit. Als einziges neues Werkzeug holen wir uns die Ollama App für deine lokale KI dazu. Keine Sorge: Im Terminal arbeiten wir fast ausschließlich mit einfachem Copy-and-Paste.
 
 ### Das lernst du Schritt für Schritt:
-* **Datenhoheit behalten:** Arbeite mit lokalen Modellen (Ollama). Die Ollama Desktop-App macht die Installation und Nutzung besonders einfach. So verlassen sensible Finanz- oder Kundendaten niemals deinen Rechner.
-* **Strukturen beherrschen:** Lass die KI komplexe Prozesse, IT-Landschaften und nackte Zahlen automatisch in klare Architekturmodelle und Dashboards übersetzen.
+* **Datenhoheit behalten:** Arbeite mit lokalen Modellen (Ollama). So verlassen sensible Finanz- oder Kundendaten niemals deinen Rechner.
+* **Strukturen beherrschen:** Spar dir langwierige Modellierungsarbeit! Lass die KI komplexe Prozesse, IT-Landschaften und Zahlen in Sekunden automatisch in Diagramme und Dashboards übersetzen.
 * **Risiken erkennen:** Baue interaktive Wissensgraphen, die Engpässe und versteckte Abhängigkeiten in deinem Geschäft sofort sichtbar machen.
-* **Das Smart-Cockpit bauen:** Führe alle Puzzleteile zu einer einzigen, lokalen HTML-Datei zusammen und binde deine KI mit ein, damit sich dein Cockpit eigenständig mit Live-Daten aktualisiert.
+* **Das Smart-Cockpit bauen:** Führe alle Puzzleteile zu einer einzigen, lokalen HTML-Datei zusammen – mit eingebauter KI, die dein Cockpit eigenständig mit Live-Daten aktualisiert.
 
 ---
 
@@ -32,17 +34,17 @@ Dieses Repository enthält die Quelldatei für die Buch-Begleitwebsite:
 
 * `index.html`: Das zentrale Linkverzeichnis mit allen Ressourcen, Downloads und KI-Tools.
 
-
 ---
 
 ## 🎁 Bonusmaterial
 Im Linkverzeichnis findest du zusätzlich:
+* **Cheat-Sheet:** Alle wichtigen Prompts und Tools auf einen Blick.
 * **Live-Showcase:** Diagramm-Vorlagen samt Prompts zum direkten Nachbauen.
-* **Zwei Demo-Cockpits:** Zum Herunterladen und Anpassen.
+* **Zwei Demo-Cockpits:** Herunterladen, im Browser öffnen und an dein eigenes Business anpassen.
 * **Linkverzeichnis:** [the-zero-cost-ai-cockpit.github.io/Links](https://the-zero-cost-ai-cockpit.github.io/Links)
 
 ---
 
-**Werde vom passiven Software-Konsumenten zum System-Architekten deines Business – realistisch, absolut niederschwellig und sofort umsetzbar.**
+**Werde vom passiven Software-Konsumenten zum Citizen-Developer und System-Architekten deines Unternehmens – praxisnah, schrittweise aufgebaut und sofort umsetzbar.**
 
 © 2026 Michael Estel
