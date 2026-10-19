@@ -1,7 +1,7 @@
 # Das 0-Euro-Cockpit
 ## Baue dein professionelles Unternehmens-Cockpit
 
-Willkommen im offiziellen Repository zum Buch **"Das 0-Euro-Cockpit"**. In diesem Projekt findest du die begleitenden Web-Ressourcen, Linkverzeichnisse und Vorlagen, um deine eigene digitale Kommandozentrale zu errichten.
+Willkommen im offiziellen Repository zum Buch **"Das 0-Euro-Cockpit"**. In diesem Projekt findest du die begleitenden Web-Ressourcen und Linkverzeichnisse, um deine eigene digitale Kommandozentrale zu errichten.
 
 ---
 
@@ -32,15 +32,14 @@ Alles, was du für den Aufbau deines Cockpits benötigst, hast du im Handumdrehe
 
 Dieses Repository enthält die Quelldatei für die Buch-Begleitwebsite:
 
-* `index.html`: Das zentrale Linkverzeichnis mit allen Ressourcen, Downloads und KI-Tools.
+* `index.html`: Das zentrale Linkverzeichnis mit allen Ressourcen und KI-Tools.
 
 ---
 
 ## 🎁 Bonusmaterial
-Im Linkverzeichnis findest du zusätzlich:
-* **Cheat-Sheet:** Alle wichtigen Prompts und Tools auf einen Blick.
-* **Live-Showcase:** Diagramm-Vorlagen samt Prompts zum direkten Nachbauen.
-* **Zwei Demo-Cockpits:** Herunterladen, im Browser öffnen und an dein eigenes Business anpassen.
+Über das Linkverzeichnis erreichst du alle begleitenden Ressourcen zum Buch:
+* **Zwei Demo-Cockpits** (Basis & Smart): Live-Ansicht und Quellcode auf GitHub – [Demo-Cockpit](https://the-zero-cost-ai-cockpit.github.io/Demo-Cockpit/) · [Demo-Cockpit Smart](https://the-zero-cost-ai-cockpit.github.io/Demo_Cockpit_smart/)
+* **Live-Showcase:** Diagramm-Vorlagen samt KI-Prompts zum direkten Nachbauen – [Showcase](https://the-zero-cost-ai-cockpit.github.io/Showcase/)
 * **Linkverzeichnis:** [the-zero-cost-ai-cockpit.github.io/Links](https://the-zero-cost-ai-cockpit.github.io/Links)
 
 ---
